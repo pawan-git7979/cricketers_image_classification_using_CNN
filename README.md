@@ -62,14 +62,15 @@ Inside the transfer learning, I have used **VGG16** model which is the best mode
 
 Accuracy of the model is
 
-![Screenshot from 2021-05-21 14-06-02](https://user-images.githubusercontent.com/63632573/119150088-be2fc200-ba6b-11eb-8241-b97eb2bd8ca1.png)
+![Screenshot from 2021-05-21 14-04-52](https://user-images.githubusercontent.com/63632573/119150186-d4d61900-ba6b-11eb-9047-8e6d1d033cf9.png)
 
 - train data = 90%
 - test data = 53%
 
 Loss data
 
-![Screenshot from 2021-05-21 14-04-52](https://user-images.githubusercontent.com/63632573/119150186-d4d61900-ba6b-11eb-9047-8e6d1d033cf9.png)
+
+![Screenshot from 2021-05-21 14-06-02](https://user-images.githubusercontent.com/63632573/119150088-be2fc200-ba6b-11eb-8241-b97eb2bd8ca1.png)
 
 
 
