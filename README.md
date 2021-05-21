@@ -41,7 +41,7 @@ Keras_tuner is a hyperparameter tuning technique which is used in your model to 
 no of conv2D layer etc.
 
 For using keras_Tuner, you can dowunload it by running
-- !pip install keras-tuner
+> !pip install keras-tuner
 
  - train data = 80% (around 462 images)
  - test data  = 20% (around 114 images)
