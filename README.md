@@ -1,5 +1,5 @@
 # cricketers_image_classification_using_CNN
-Build a deep learning model using CNN , of indian cricketers. applied various techniques to improve the accuracy.
+Build a image classfication CNN  in deep learning using Keras and Tenserflow2.0 , of indian cricketers. 
 
 ![Image_Classfication_Model_Using_CNN](https://user-images.githubusercontent.com/63632573/119144837-b15c9f80-ba66-11eb-9629-da60e918123f.png)
 
