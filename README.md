@@ -6,6 +6,7 @@ Build a image classfication CNN  in deep learning using Keras and Tenserflow2.0 
 In this Project I have tried to build a CNN model for the image classfication which is classifying the images of the Indian Cricketers.
 Their are around 576 images available, which belongs to 15 class labels.
 
+
 To build this model I have used various techniques and approaches.
 - Build simple CNN
 - Build CNN and applied data augmentation
@@ -50,6 +51,11 @@ For using keras_Tuner, you can dowunload it by running
 The accuracy of the model is-
 - train data = 90%
 - test data = 42%
+
+**Classification Matrix** 
+ 
+ ![Screenshot from 2021-05-21 19-46-54](https://user-images.githubusercontent.com/63632573/119157907-46fe2c00-ba73-11eb-9402-3c3f9aedf2fc.png)
+
 
 ### Transfer Learning
 In transfer learning is a technique in which we used the pre-trained model, which is already ha been trained on thousands of images.
